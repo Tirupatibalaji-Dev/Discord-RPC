@@ -5,16 +5,16 @@ const rpc = new RPC.Client({
 
 rpc.on("ready", () => {
     rpc.setActivity({
-        details: "Legit Discord Nitro Server",
-        state: "Nitro | Robux Rewards Running",
-        startTimestamp: new Date(),
-        largeImageKey: "nitro",
-        largeImageText: "Nitro in 2 Invites",
-        smallImageKey: "boost",
-        smallImageText: "100% Legit",
+        details: "Legit Discord Nitro Server", // First Sub Title
+        state: "Nitro | Robux Rewards Running", // Second Sub Title
+        startTimestamp: new Date(), // Time
+        largeImageKey: "nitro", // Big Image
+        largeImageText: "Nitro in 2 Invites", // Bit Image Name
+        smallImageKey: "boost", // Small Image
+        smallImageText: "100% Legit", // Small Image Name
         buttons: [
-            { label: "Join Server", url: "https://discord.gg/GNVj6HBYZB" },
-            { label: "Invite Bot", url: "https://dsc.gg/dtsmod.gq" }
+            { label: "Join Server", url: "https://discord.gg/GNVj6HBYZB" }, // Button One
+            { label: "Invite Bot", url: "https://dsc.gg/dtsmod.gq" } // Button Two
         ]
 
     });
@@ -23,5 +23,5 @@ rpc.on("ready", () => {
 })
 
 rpc.login({
-    clientId: "<client_id>"
+    clientId: "<client_id>" // Client ID
 })

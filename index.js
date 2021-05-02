@@ -23,5 +23,5 @@ rpc.on("ready", () => {
 })
 
 rpc.login({
-    clientId: "787414040548605983"
+    clientId: "<client_id>"
 })

@@ -97,6 +97,28 @@ This is Advanced Discord.js COmmand and Event Handler By Just Cloaning and repla
 
 To get a local copy up and running follow these simple steps.
 
+### Making new RPC
+
+1. Make new RPC
+  1. Go to https://discord.com/developers/applications
+
+  2. click on `New Application`
+<img src="https://cdn.discordapp.com/attachments/816682100517896231/838250216233631784/unknown.png" alt="Logo">
+
+  3. Enter RPC Name and Click on `create`
+<img src="https://cdn.discordapp.com/attachments/816682100517896231/838250797724336139/unknown.png" alt="Logo">
+
+  4. In Outh Tab Copy Client ID
+<img src="https://cdn.discordapp.com/attachments/816682100517896231/838251112174846012/unknown.png" alt="Logo">
+  
+  5. Adding Custom Images
+    1. Click On Rich Presence Tab
+    2. Click On Add Image
+    3. Select Images
+    4. Click on save Changes.
+    <br> </br>
+![image](https://user-images.githubusercontent.com/65179050/116800930-ef7b3900-ab22-11eb-905d-b94ac2199953.png)
+
 
 ### Installation
 
@@ -109,15 +131,20 @@ To get a local copy up and running follow these simple steps.
    npm install discord-rpc
    ```
 3. Replace Client Token
-In index.js replace your client token at line 26
-
-4. Start
-Run run.bat file or use command ```node index.js```
+   In index.js replace your client token at line 26
+    
+4. Custom Details.
+   1. Open `index.js` file
+   2. Customize Details as you want Read comments for more info
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Run run.bat file or use command ```node index.js``` AND Enjoy
+<br></br>
+![image](https://user-images.githubusercontent.com/65179050/116800855-4f251480-ab22-11eb-9cda-8759037ed5e7.png)
+<br></br>
+![image](https://user-images.githubusercontent.com/65179050/116800873-7d0a5900-ab22-11eb-9092-8f8a1f49e8e7.png)
 
 
 <!-- ROADMAP -->

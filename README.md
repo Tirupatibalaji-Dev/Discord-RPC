@@ -40,10 +40,10 @@
     <img src="https://i.ytimg.com/vi/jGF-L0iEBH4/maxresdefault.jpg">
   </a>
 
-  <h3 align="center">Discord-Advanced-Event-and-Command-Handler</h3>
+  <h3 align="center">Discord-RPC</h3>
 
   <p align="center">
-    Discord.js Advanced Event and Command Handler. Its Easy to use.
+    Discord.js Advanced RPC. Its Easy to use.
     <br />
     <a href="https://github.com/Tirupatibalaji-Dev/Discord-RPC"><strong>Explore the docs »</strong></a>
     <br />

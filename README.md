@@ -37,7 +37,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Tirupatibalaji-Dev/Discord-RPC">
-    <img src="https://cdn.discordapp.com/attachments/783701974079504394/832831384434769920/logo-square.png" width="80" height="80">
+    <img src="https://i.ytimg.com/vi/jGF-L0iEBH4/maxresdefault.jpg">
   </a>
 
   <h3 align="center">Discord-Advanced-Event-and-Command-Handler</h3>
@@ -89,7 +89,7 @@
 
 This is Advanced Discord.js COmmand and Event Handler By Just Cloaning and replacing Your Token and Prefix You can Get Started. Checkout <a href="#getting-started">Getting Started</a> For More info.
 <br>
- <img src="https://cdn.discordapp.com/attachments/783701974079504394/832827036270854184/unknown.png" alt="Logo">
+ <img src="https://cdn.discordapp.com/attachments/816682100517896231/838247950424997888/unknown.png" alt="Logo">
 
 
 <!-- GETTING STARTED -->
@@ -106,15 +106,18 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Install NPM packages
    ```sh
-   npm install discord.js, fs, ascii-table
+   npm install discord-rpc
    ```
+3. Replace Client Token
+In index.js replace your client token at line 26
 
-
+4. Start
+Run run.bat file or use command ```node index.js```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-In config.json Replace ```TOKEN``` With Your Token and Replace ```PREFIX``` with Your Prefix.
+Run run.bat file or use command ```node index.js``` AND Enjoy
 
 
 <!-- ROADMAP -->
